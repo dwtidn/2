@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.polaris88.hyphanet.org/sitemap.xml
+Sitemap: https://dwtg.ho2w.com/sitemap.xml
